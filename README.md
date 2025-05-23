@@ -28,10 +28,6 @@ Dragon Repeller is a web-based game where you play as a hero who must defeat a d
 - `script.js`: Game logic and mechanics.
 - `README.md`: Project documentation.
 
-## License
-
-This project is for learning purposes and is free to use.
-
 ---
 
 Happy playing and learning JavaScript!
